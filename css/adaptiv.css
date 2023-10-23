@@ -1,0 +1,2448 @@
+@media screen and (max-width: 2560px) {
+    #header {
+        max-width: 1200px;
+    }
+}
+
+@media screen and (max-width: 1340px) {
+    #main-boy-img {
+        top: 316px;
+        right: calc(50% - 496px);
+        z-index: 1;
+    }
+
+    #main-boy-img img {
+        width: 539px;
+    }
+
+    #main-info-title {
+        position: relative;
+        z-index: 5;
+    }
+
+    #main-info-text-1 {
+        position: relative;
+        z-index: 5;
+    }
+
+    #main-info-text-2 {
+        position: relative;
+        z-index: 5;
+    }
+
+    #main-info-slogan {
+        position: relative;
+        z-index: 5;
+    }
+}
+
+@media screen and (max-width: 1249px) {
+    #header {
+        max-width: 990px;
+    }
+
+    #menu a {
+        margin: 0 30px;
+    }
+
+    #main-info {
+        max-width: 990px;
+    }
+
+    #main-info-title {
+        font-size: 54px;
+    }
+
+    #advantages-container {
+        max-width: 990px;
+    }
+
+    .advantage:nth-child(1) {
+        margin-top: -34px;
+        margin-left: -40px;
+    }
+
+
+    .advantage:nth-child(2) {
+        margin-left: 40px;
+        margin-top: 25px;
+    }
+
+    .advantage:nth-child(4) {
+        margin-left: 35px;
+        margin-top: 25px;
+    }
+
+    .advantage:nth-child(5) {
+        margin-left: -95px;
+    }
+
+    #use-programming {
+        background-position: center;
+    }
+
+    #use-programming-container {
+        max-width: 990px;
+    }
+
+    #use-programming-pluses-1 {
+        margin-left: 45px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 540px;
+    }
+
+    .use-programming-plus-title {
+        font-size: 16px;
+    }
+
+    .use-programming-kids-img {
+        position: absolute;
+        top: 332px;
+        left: 260px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 558px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 625px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 46px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 524px;
+    }
+
+    #learn-container {
+        max-width: 990px;
+    }
+
+    .learn-1 {
+        margin-right: 254px;
+    }
+
+    .learn-3 {
+        margin-top: 41px;
+        margin-right: 206px;
+    }
+
+    .learn-4 .learn-title {
+        max-width: 235px;
+    }
+
+    .learn-4 {
+        margin-right: 57px;
+        margin-top: 43px;
+    }
+
+    .learn-5 {
+        margin-right: 221px;
+        margin-top: 53px;
+    }
+
+    .learn-6 {
+        margin-top: 53px;
+    }
+
+    #our-programs {
+        background-position: center;
+    }
+
+    #products-container {
+        max-width: 970px;
+    }
+
+    #products-container .slick-list {
+        width: 970px;
+    }
+
+    #programs-container .slick-slide {
+        width: 290px!important;
+        margin: 0 17px;
+    }
+
+    #products-container .slick-prev {
+        left: -37px;
+    }
+
+    #products-container .slick-next {
+        right: -33px;
+    }
+
+    #going-title {
+        margin-bottom: 80px;
+    }
+
+    #going-border {
+        width: 990px;
+        margin: 0 auto;
+    }
+
+    #going-1 {
+        margin-left: 20px;
+    }
+
+    #going-2 {
+        margin-left: 20px;
+    }
+
+    #going-3 {
+        margin-left: 20px;
+    }
+
+    #reviews {
+        background-position: center;
+    }
+
+    #reviews-container {
+        max-width: 990px;
+    }
+
+    #list-reviews {
+        max-width: 870px;
+    }
+
+    #list-reviews .slick-track {
+        height: 150px;
+    }
+
+    #list-reviews .slick-list {
+        height: 150px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -57px;
+    }
+
+    #list-reviews .slick-next {
+        right: -55px;
+    }
+
+    #order-container {
+        max-width: 990px;
+    }
+
+    #order-border {
+        width: 990px;
+    }
+
+    #first-order-block {
+        margin-left: 25px;
+        width: 271px;
+        text-align: center;
+    }
+
+    #first-order-img {
+        margin-top: 40px;
+        margin-left: 0;
+    }
+
+    #order-border-kids-img {
+        left: 303px;
+        top: 69px;
+    }
+
+    #order-border-kids-img img {
+        width: 388px;
+    }
+
+    #second-order-form {
+        margin-top: 50px;
+        margin-left: 406px;
+    }
+
+
+    #footer-container {
+        max-width: 990px;
+    }
+
+    #footer-second-block {
+        margin-left: 150px;
+    }
+
+    #footer-third-block {
+        margin-left: 150px;
+    }
+
+    #footer-fourth-block {
+        margin-left: 150px;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    #products-container .slick-prev {
+        left: -20px;
+    }
+
+    #products-container .slick-next {
+        right: -20px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+
+    #header {
+        max-width: 738px;
+    }
+
+    #menu a {
+        margin: 0 8px;
+        font-size: 14px;
+    }
+
+    #order-button button {
+        font-size: 15px;
+        padding: 10px 17px;
+    }
+
+    #main-info {
+        max-width: 738px;
+    }
+
+    #main-info-title {
+        font-size: 47px;
+    }
+
+    #main-info-text-2 {
+        font-size: 34px;
+    }
+
+    #advantages {
+        height: 1500px;
+    }
+
+    #advantages-container {
+        max-width: 738px;
+    }
+
+    #advantage-img {
+        height: 572px;
+    }
+
+    #advantages-block {
+        display: block;
+    }
+
+    .advantage:nth-child(1) {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 80px;
+    }
+
+
+    .advantage:nth-child(2) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .advantage:nth-child(3) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .advantage:nth-child(4) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .advantage:nth-child(5) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #advantage-img {
+        text-align: center;
+    }
+
+    .advantages {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #use-programming-container {
+        max-width: 738px;
+        padding-top: 110px;
+    }
+
+    .use-programming-kids-img {
+        position: relative;
+        top: -552px;
+        left: 121px;
+    }
+
+    #use-programming-pluses-1 {
+        margin-top: 400px;
+        margin-left: 30px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 277px;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 205px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 242px;
+    }
+
+    #learn-container {
+        max-width: 738px;
+    }
+
+    #learn-1 {
+        width: 768px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .learn-1 {
+        margin-right: 110px;
+    }
+
+    .learn-2 {
+        margin-right: 0;
+    }
+
+    .learn-3 {
+        margin-top: 50px;
+    }
+
+    #learn-container {
+        position: relative;
+    }
+
+    .learn-4 {
+        margin-right: 0;
+        position: absolute;
+        top: 352px;
+        right: calc(50% - 400px);
+    }
+
+    .learn-4 .learn-title {
+        max-width: 222px;
+    }
+
+    #learn-2 {
+        margin-top: 50px;
+    }
+
+    .learn-5 {
+        margin-right: 77px;
+    }
+
+    .learn-6 .learn-title {
+        max-width: 136px;
+        margin-top: 0;
+    }
+
+    #products-container {
+        max-width: 870px;
+    }
+
+    #products-container .slick-list {
+        width: 870px;
+    }
+
+    #programs-container .slick-slide {
+        width: 260px!important;
+        margin: 0 15px;
+    }
+
+    #programs-title {
+        font-size: 34px;
+    }
+
+    #going-container {
+        max-width: 738px;
+    }
+
+    #going-border {
+        width: 738px;
+        margin: 0 auto;
+        height: 451px;
+    }
+
+    .going-text {
+        font-size: 17px;
+    }
+
+    #going-1 {
+        padding: 60px 0 26px 30px;
+    }
+
+
+    #going-1 .going-img {
+        margin-top: -11px;
+    }
+
+    .going-text {
+        width: 200px;
+    }
+
+    #going-1 .going:nth-child(1) {
+        margin-top: -20px;
+    }
+
+    #going-1 .going:nth-child(2) .going-img {
+        margin-top: -30px;
+    }
+
+    #going-2 .going-img {
+        margin-top: -32px;
+    }
+
+    #going-2 {
+        padding-bottom: 45px;
+        padding-left: 30px;
+    }
+
+    #going-3 {
+        padding-left: 30px;
+    }
+
+    #going-3 .going:nth-child(2) {
+        margin-top: -60px;
+    }
+
+    #going-3 .going:nth-child(1) .going-img {
+        margin-top: -53px;
+    }
+
+    #going-3 .going:nth-child(2) .going-img {
+        margin-top: 8px;
+    }
+
+    #products-container .slick-next {
+        right: -15px;
+    }
+
+    #products-container .slick-prev {
+        left: -15px;
+    }
+
+    #reviews-container {
+        max-width: 580px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 580px!important;
+        height: 190px!important;
+    }
+
+
+    .review-title-text {
+        margin-left: 30px;
+    }
+
+    .review-text {
+        max-width: 380px;
+    }
+
+    .review-title {
+
+        margin-bottom: 22px;
+    }
+
+    .slick-dots {
+        bottom: -50px;
+    }
+
+    /*#list-reviews .slick-slide {*/
+    /*    width: 560px!important;*/
+    /*}*/
+
+    #order-block {
+        height: 1185px;
+    }
+
+    #order-container {
+        max-width: 738px;
+    }
+
+    #order-border {
+        width: 738px;
+        flex-wrap: wrap;
+        height: 1000px;
+    }
+
+    #first-order-block {
+        width: 650px;
+    }
+
+    #first-order-title {
+        margin: 0 auto;
+        max-width: 650px;
+    }
+
+    #first-order-text {
+        font-size: 20px;
+        max-width: 394px;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+
+    #second-order-form {
+        margin-top: -340px;
+        margin-left: 236px;
+    }
+
+    #second-order-title {
+        font-size: 26px;
+    }
+
+    #first-order-img {
+        margin-top: 360px;
+    }
+
+    #order-border-kids-img {
+        position: relative;
+        margin: 0 auto;
+        left: 0;
+        top: -377px;
+    }
+
+    #order-border-kids-img img {
+        width: 386px;
+    }
+
+    #first-order-block {
+        padding-top: 47px;
+        margin: 0 auto;
+    }
+
+    #footer-container {
+        max-width: 738px;
+    }
+
+    #footer-second-block {
+        margin-left: 71px;
+    }
+
+    #footer-third-block {
+        margin-left: 71px;
+    }
+
+    #footer-fourth-block {
+        margin-left: 71px;
+    }
+}
+
+@media screen and (max-width: 1001px) {
+    #main-info-slogan {
+        color: #fffefe;
+        position: relative;
+        z-index: 5;
+    }
+
+    #main-boy-img {
+        top: 314px;
+        right: calc(50% - 296px);
+    }
+
+    #main-info-text-2 {
+        position: relative;
+        z-index: 5;
+    }
+
+    #main-info-button {
+        position: relative;
+        z-index: 5;
+    }
+
+}
+
+@media screen and (max-width: 960px) {
+    #products-container {
+        max-width: 870px;
+    }
+
+    #products-container .slick-list {
+        width: 870px;
+    }
+
+    #programs-container .slick-slide {
+        width: 260px!important;
+        margin: 0 15px;
+    }
+}
+
+@media screen and (max-width: 910px) {
+    #products-container {
+        max-width: 830px;
+    }
+
+    #products-container .slick-list {
+        width: 830px;
+    }
+
+    #programs-container .slick-slide {
+        width: 260px!important;
+        margin: 0 15px;
+        opacity: 30%;
+        margin-top: 20px;
+    }
+
+    #programs-container .slick-active {
+        opacity: 100%;
+        margin-top: 0;
+    }
+
+    #products-container .slick-slide img {
+        width: 220px;
+    }
+
+    #products-container .slick-next {
+        right: 197px;
+    }
+
+    #products-container .slick-prev {
+        left: 197px;
+    }
+
+    .product-title {
+        font-size: 17px;
+    }
+
+}
+
+@media screen and (max-width: 870px) {
+    #list-reviews .slick-next {
+        right: -50px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -50px;
+    }
+
+    #products-container {
+        max-width: 720px;
+    }
+
+    #products-container .slick-list {
+        width: 720px;
+    }
+
+    #programs-container .slick-slide {
+        width: 273px!important;
+        margin: 0 15px;
+        margin-top: 20px;
+    }
+
+    #programs-container .slick-active {
+        margin-top: 0;
+    }
+
+    #products-container .slick-next {
+        right: 197px;
+    }
+
+    #products-container .slick-prev {
+        left: 197px;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+
+    #header {
+        max-width: 680px;
+        flex-wrap: wrap;
+    }
+
+    #header .logo {
+        order: 1;
+        margin-left: 100px;
+    }
+
+    #order-button {
+        order: 2;
+        margin-right: 100px;
+    }
+
+    #menu {
+        order: 3;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+
+    #menu a {
+        margin: 0 8px;
+        font-size: 17px;
+    }
+
+    #main-info {
+        max-width: 680px;
+    }
+
+    #main-info-title {
+        font-size: 39px;
+    }
+
+    #main-info-text-1 {
+        font-size: 25px;
+    }
+
+    #main-info-text-2 {
+        font-size: 32px;
+    }
+
+    #main-info-slogan {
+        font-size: 18px;
+        color: #e0daec;
+        margin-top: 35px;
+    }
+
+    #programs-container {
+        max-width: 680px;
+    }
+
+    #programs-title {
+        font-size: 32px;
+    }
+
+    #learn-container {
+        max-width: 680px;
+        padding: 80px 0 80px 0;
+    }
+
+    .learn-1 {
+        margin-right: 67px;
+    }
+
+    .learn-3 .learn-title {
+        max-width: 264px;
+    }
+
+    .learn-4 {
+        right: calc(50% - 314px);
+        top: 312px;
+    }
+
+    .learn-4 .learn-title {
+        max-width: 151px;
+    }
+
+    .learn-5 {
+        margin-right: 34px;
+    }
+
+    .learn-5 .learn-title {
+        max-width: 236px;
+    }
+
+    #going-border {
+        width: 680px;
+    }
+
+    #products-container .slick-prev {
+        left: 178px;
+    }
+
+    #products-container .slick-next {
+        right: 178px;
+    }
+
+    #order-border {
+        width: 680px;
+    }
+
+    #second-order-form {
+        margin-top: -340px;
+        margin-left: 215px;
+    }
+
+    #footer-container {
+        max-width: 680px;
+    }
+
+    #footer-second-block {
+        margin-left: 40px;
+    }
+
+    #footer-third-block {
+        margin-left: 40px;
+    }
+
+    #footer-fourth-block {
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width : 768px) {
+    .animated {
+        /*CSS transitions*/
+        -o-transition-property: none !important;
+        -moz-transition-property: none !important;
+        -ms-transition-property: none !important;
+        -webkit-transition-property: none !important;
+        transition-property: none !important;
+        /*CSS transforms*/
+        -o-transform: none !important;
+        -moz-transform: none !important;
+        -ms-transform: none !important;
+        -webkit-transform: none !important;
+        transform: none !important;
+        /*CSS animations*/
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        -ms-animation: none !important;
+        animation: none !important;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    #use-programming-pluses-1 {
+        margin-left: 20px;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 20px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 193px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    #use-programming-pluses-1 {
+        margin-left: 10px;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 10px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 181px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .use-programming-plus-4 {
+        margin-left: 191px;
+    }
+
+    .review-text {
+        margin-left: 30px;
+    }
+
+    #list-reviews .slick-next {
+        right: -40px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -40px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 557px!important;
+    }
+
+    #reviews-container {
+        max-width: 557px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .use-programming-plus-4 {
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+
+    #main-info {
+        max-width: 650px;
+    }
+
+    #use-programming-title {
+        font-size: 33px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 213px;
+    }
+
+    #going-border {
+        box-sizing: border-box;
+        width: 650px;
+    }
+
+    #going-1 {
+        margin-left: 0;
+        padding-left: 20px;
+    }
+
+    #going-2 {
+        margin-left: 0;
+        padding-left: 20px;
+    }
+
+    #going-3 {
+        margin-left: 0;
+        padding-left: 20px;
+    }
+
+    #order-border {
+        width: 650px;
+    }
+
+    #first-order-title {
+        font-size: 28px;
+    }
+
+    #footer-container {
+        max-width: 650px;
+    }
+
+    .footer-text a {
+        font-size: 15px;
+    }
+
+    .footer-text {
+        font-size: 15px;
+    }
+
+    #footer-second-block {
+        margin-left: 50px;
+    }
+
+    #footer-third-block {
+        margin-left: 50px;
+    }
+
+    #footer-fourth-block {
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 704px) {
+    #use-programming-pluses-1 {
+        margin-left: 30px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 229px;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 30px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 142px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 30px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 194px;
+    }
+
+}
+
+@media screen and (max-width: 690px) {
+    #use-programming-pluses-1 {
+        margin-left: 20px;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 20px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 144px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 20px;
+    }
+
+    .learn-1 {
+        margin-right: 30px;
+        margin-left: 36px;
+    }
+
+    .learn-2 .learn-title {
+        max-width: 175px;
+    }
+
+    .learn-3 {
+        margin-left: 20px;
+    }
+
+    .learn-5 {
+        margin-right: 16px;
+        margin-left: 18px;
+    }
+
+    #products-container .slick-next {
+        right: 177px;
+    }
+
+    #products-container .slick-prev {
+        left: 177px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .use-programming-plus-4 {
+        margin-left: 156px;
+    }
+}
+
+@media screen and (max-width: 676px) {
+    #main-info {
+        max-width: 600px;
+    }
+
+    #main-info-title {
+        font-size: 36px;
+    }
+
+    #main-info-text-1 {
+        font-size: 24px;
+    }
+
+    #main-info-text-2 {
+        font-size: 30px;
+    }
+
+    #main-info-slogan {
+        font-size: 17px;
+        margin-top: 52px;
+    }
+
+    #advantages-title {
+        font-size: 34px;
+    }
+
+    #programs-title {
+        font-size: 30px;
+    }
+
+    .use-programming-plus-1 {
+        width: 250px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 172px;
+    }
+
+    .use-programming-plus-title-2 {
+        width: 216px;
+    }
+
+    .use-programming-plus-3 {
+        width: 250px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 172px;
+    }
+
+    .learn-1 {
+        margin-right: 35px;
+        margin-left: 36px;
+    }
+
+    .learn-title {
+        margin-left: 20px;
+    }
+
+    .learn-3 {
+        margin-left: 20px;
+    }
+
+    .learn-4 {
+        right: calc(50% - 307px);
+        top: 312px;
+    }
+
+    .learn-5 {
+        margin-right: 21px;
+        margin-left: 18px;
+    }
+
+    #going-border {
+        width: 600px;
+    }
+
+    .going:nth-child(1) {
+        margin-right: 40px;
+    }
+
+    #products-container .slick-next {
+        right: 172px;
+    }
+
+    #products-container .slick-prev {
+        left: 172px;
+    }
+
+    #order-border {
+        width: 600px;
+    }
+
+    #second-order-form {
+        margin-left: 166px;
+    }
+
+    #first-order-text {
+        font-size: 19px;
+    }
+
+    #first-order-title {
+        font-size: 25px;
+    }
+
+    #footer-third-block {
+        width: 67px;
+    }
+
+    #footer-container {
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .learn-1 {
+        margin-left: 26px;
+    }
+
+    .learn-3 {
+        margin-left: 10px;
+    }
+
+    .learn-4 {
+        right: calc(50% - 304px);
+    }
+
+    .learn-5 {
+        margin-left: 8px;
+    }
+
+    .use-programming-kids-img {
+        position: relative;
+        top: -552px;
+        left: 84px;
+    }
+
+    .use-programming-plus {
+        width: 237px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 160px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 160px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 160px;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .learn-4 {
+        right: calc(50% - 299px);
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 145px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 145px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 145px;
+    }
+
+    .learn-1 {
+        margin-left: 14px;
+    }
+
+    .learn-5 {
+        margin-right: 16px;
+    }
+
+    .learn-3 .learn-title {
+        margin-left: 8px;
+    }
+
+    .learn-5 .learn-title {
+        margin-left: 8px;
+    }
+
+    #products-container .slick-prev {
+        left: calc(50% - 163px);
+    }
+
+    #products-container .slick-next {
+        right: calc(50% - 163px);
+    }
+
+    #programs-title {
+        font-size: 29px;
+    }
+
+    #programs-text {
+        font-size: 20px;
+    }
+
+    .review-title {
+        font-size: 19px;
+    }
+
+    .review-word {
+        font-size: 17px;
+    }
+
+    .review-text {
+        margin-left: 20px;
+    }
+
+    #list-reviews .slick-next {
+        right: -34px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -34px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 534px!important;
+    }
+
+    #reviews-container {
+        max-width: 534px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #advantages-title {
+        font-size: 32px;
+    }
+
+    .use-programming-plus-title {
+        max-width: 206px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 115px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 115px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 115px;
+    }
+
+    #learn-title {
+        font-size: 34px;
+    }
+
+    .learn-title {
+        font-size: 17px;
+        margin-left: 10px;
+    }
+
+    .learn-1 {
+        margin-left: 11px;
+        margin-right: 15px;
+    }
+
+    .learn-1 .learn-title {
+        max-width: 221px;
+    }
+
+    .learn-3 .learn-title {
+        max-width: 206px;
+    }
+
+    .learn-4 {
+        right: calc(50% - 272px);
+    }
+
+    .learn-5 {
+        margin-right: 14px;
+    }
+
+    .learn-5 .learn-title {
+        max-width: 206px;
+    }
+
+    #going-border {
+        width: 550px;
+    }
+
+    #going-1 {
+        padding-left: 10px;
+    }
+
+    #going-2 {
+        padding-left: 10px;
+    }
+
+    #going-3 {
+        padding-left: 10px;
+    }
+
+    .going:nth-child(1) {
+        margin-right: 20px;
+    }
+
+    .going:nth-child(3) {
+        margin-right: 20px;
+    }
+
+    .going:nth-child(5) {
+        margin-right: 20px;
+    }
+
+    #order-border {
+        width: 550px;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    #advantage-img img {
+        width: 500px;
+    }
+
+    #advantage-img {
+        height: 462px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 100px;
+    }
+
+    #products-container {
+        max-width: 280px;
+    }
+
+    #products-container .slick-list {
+        width: 280px;
+    }
+
+    #products-container .slick-prev {
+        left: calc(50% - 185px);
+    }
+
+    #products-container .slick-next {
+        right: calc(50% - 185px);
+    }
+
+    .review-img {
+        width: 130px;
+        height: 130px;
+    }
+
+    .review-img img {
+        width: 130px;
+    }
+
+    .review-text {
+        margin-left: 10px;
+    }
+
+    .review-title {
+        font-size: 18px;
+    }
+
+    .review-word {
+        font-size: 16px;
+    }
+
+    #list-reviews .slick-next {
+        right: -35px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -35px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 514px!important;
+    }
+
+    #reviews-container {
+        max-width: 514px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    #order-button {
+        display: none;
+    }
+
+    #menu {
+        display: none;
+    }
+
+    #small-menu-button {
+        display: block;
+        position: relative;
+        order: 2;
+        right: 15px;
+    }
+
+    #main {
+        background: url("../images/main-small-bg.png");
+        height: 949px;
+    }
+
+    #header {
+        padding: 30px 0 60px 0;
+    }
+
+
+    #header .logo {
+        order: 1;
+        margin-left: 15px;
+    }
+
+    #main-info {
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #main-info-title {
+        font-size: 40px;
+        max-width: 300px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #main-info-text-1 {
+        font-size: 20px;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 20px;
+        max-width: 221px;
+    }
+
+    #main-boy-img {
+        right: 0;
+        position: relative;
+        margin: 0 auto;
+        text-align: center;
+        top: calc(50% - 1036px);
+    }
+
+    #main-boy-img img {
+        width: 330px;
+    }
+
+    #main-small-order-img {
+        display: block;
+        position: relative;
+        top: calc(50% - 1081px);
+        text-align: center;
+        margin: 0 auto;
+        z-index: 5;
+        margin-left: 50px;
+    }
+
+    #main-info-text-2 {
+        font-size: 24px;
+        padding-top: 415px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #main-info-slogan {
+        font-size: 16px;
+        max-width: 319px;
+        margin: 0 auto;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    #main-info-button {
+        margin: 0 auto;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    #advantages-container {
+        max-width: 500px;
+    }
+
+    #advantages {
+        height: 1350px;
+    }
+
+    #advantages-title {
+        font-size: 27px;
+    }
+
+    #advantage-img {
+        height: 371px;
+    }
+
+    #advantage-img img {
+        width: 400px;
+    }
+
+    .advantage-text {
+        max-width: 354px;
+    }
+
+    #use-programming-title {
+        font-size: 31px;
+    }
+
+    .use-programming-kids-img {
+        top: -563px;
+        left: 48px;
+    }
+
+    .use-programming-kids-img img {
+        width: 400px;
+    }
+
+    .use-programming-plus-title {
+        font-size: 15px;
+    }
+
+    .use-programming-kids-img {
+        top: -524px;
+        width: 401px;
+    }
+
+    #use-programming-pluses-1 {
+        margin-left: 10px;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 10px;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 10px;
+    }
+
+    .use-programming-plus-2 {
+        margin-left: 34px;
+    }
+
+    .use-programming-plus-4 {
+        margin-left: 34px;
+    }
+
+    .use-programming-plus-6 {
+        margin-left: 34px;
+    }
+
+    #learn-text {
+        margin-top: 60px;
+    }
+
+    #learn-container {
+        max-width: 680px;
+        padding: 80px 0 40px 0;
+    }
+
+    #learn {
+        margin-top: 50px;
+    }
+
+    #learn-text {
+        margin-top: 0;
+    }
+
+    .learn-1 {
+        margin: 0 auto;
+        padding-left: 36px;
+    }
+
+    .learn-2 {
+        margin: 0 auto;
+        padding-left: 12px;
+    }
+
+    .learn-3 {
+        margin: 0 auto;
+        padding-left: 4px;
+    }
+
+    .learn-4 {
+        margin: 0 auto;
+        position: relative;
+        right: 0;
+        top: 0;
+        padding-left: 32px;
+    }
+
+    .learn-5 {
+        margin: 0 auto;
+    }
+
+    .learn-6 {
+        margin: 0 auto;
+        padding-left: 10px;
+    }
+
+    .learn {
+        width: 270px;
+        margin: 10px auto;
+    }
+
+    .learn-title {
+        margin-left: 20px;
+    }
+
+    .learn-3 .learn-title {
+        margin-left: 20px;
+    }
+
+    .learn-5 .learn-title {
+        margin-left: 20px;
+    }
+
+    #learn-text    {
+        font-size: 20px;
+    }
+
+    #programs-title {
+        font-size: 27px;
+    }
+
+    #programs-text {
+        font-size: 17px;
+    }
+
+    #going-title   {
+        font-size: 31px;
+    }
+
+    #going-border {
+        width: 470px;
+        height: 727px;
+    }
+
+    #going-1 {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    #going-2 {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    #going-3 {
+        flex-direction: column;
+        padding-left: 0;
+    }
+
+    .going {
+        width: 254px;
+        margin: 0 auto;
+        padding: 20px 0;
+    }
+
+    #going-1 .going:nth-child(1) {
+        margin-top: 0;
+        padding-top: 40px;
+    }
+
+    #going-3 .going:nth-child(2) {
+        margin-top: 0;
+        padding-bottom: 40px;
+    }
+
+    .going:nth-child(1) {
+        margin: 0 auto;
+    }
+
+    #reviews-container {
+        max-width: 450px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 450px!important;
+    }
+
+    .review-img img {
+        width: 138px;
+        margin-top: 3px;
+    }
+
+    .review-text {
+        margin-left: 25px;
+    }
+
+    #order-border {
+        width: 470px;
+    }
+
+    #first-order-title {
+        font-size: 26px;
+    }
+
+    #second-order-form {
+        margin: -337px auto;
+        height: 312px;
+    }
+
+    #footer-container {
+        max-width: 470px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #footer {
+        background: url("../images/adaptiv-footer-background.png");
+        height: 416px;
+    }
+
+    #footer-first-block {
+        margin: 0 auto;
+        position: relative;
+    }
+
+    #footer-second-block {
+        margin-left: 0;
+    }
+
+    #footer-second-block .footer-text:nth-child(1) {
+        margin-top: 20px;
+    }
+
+    .logo {
+        order: 1;
+    }
+
+    #footer-second-block {
+        order: 2;
+    }
+
+    #footer-third-block {
+        order: 3;
+        margin: 0 auto;
+    }
+
+    #footer-fourth-block {
+        margin: 0 auto;
+        order: 4;
+    }
+
+    #footer-icons {
+        position: absolute;
+        top: 255px;
+    }
+
+    #footer-third-block {
+        width: 132px;
+    }
+
+    #footer-third-block .footer-text {
+        width: 132px;
+    }
+
+    #footer-fourth-block .footer-text:nth-child(1) {
+        margin-top: 10px;
+    }
+
+}
+
+@media screen and (max-width: 530px) {
+    #reviews {
+        height: 640px;
+    }
+
+    #reviews-container {
+        max-width: 400px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 400px!important;
+    }
+
+    .review-img img {
+        width: 140px;
+        margin-top: 7px;
+    }
+
+    .review-title {
+        margin-bottom: 15px;
+    }
+
+}
+
+@media screen and (max-width: 520px) {
+    #advantages-title {
+        font-size: 28px;
+        max-width: 282px;
+        margin: 0 auto;
+    }
+
+    #advantage-img img {
+         width: 360px;
+     }
+
+    #advantage-img {
+        height: 305px;
+    }
+
+    .advantage-text {
+        max-width: 327px;
+    }
+
+    #use-programming {
+        background: url("../images/small-use-programming-500.png");
+        background-position: center;
+        height: 940px;
+    }
+
+    #use-programming-container {
+        padding-top: 70px;
+    }
+
+
+    #use-programming-title {
+        font-size: 29px;
+    }
+
+    .use-programming-kids-img {
+        top: -678px;
+        width: 370px;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .use-programming-kids-img img {
+        width: 370px;
+    }
+
+    #use-programming-pluses-1 {
+        margin-top: 380px;
+        margin-left: 0;
+        flex-direction: column;
+    }
+
+    #use-programming-pluses-2 {
+        margin-left: 0;
+        flex-direction: column;
+    }
+
+    #use-programming-pluses-3 {
+        margin-left: 0;
+        flex-direction: column;
+    }
+
+    .use-programming-plus {
+        width: 237px;
+        margin: 0 auto;
+    }
+
+    #use-programming-pluses-1 .use-programming-plus:nth-child(1) {
+        margin-bottom: 30px;
+    }
+
+    #use-programming-pluses-2 .use-programming-plus:nth-child(1) {
+        margin-bottom: 30px;
+    }
+
+    #use-programming-pluses-3 .use-programming-plus:nth-child(1) {
+        margin-bottom: 30px;
+    }
+
+    #learn-container {
+        padding: 60px 0 20px 0;
+    }
+
+    #learn-text {
+        font-size: 18px;
+    }
+
+    #programs-text {
+        font-size: 18px;
+        max-width: 329px;
+        margin: 0 auto;
+        padding-top: 60px;
+    }
+
+    #going-title {
+        margin-bottom: 60px;
+    }
+
+    #going-border {
+        width: 380px;
+    }
+
+    #reviews-container    {
+        padding-top: 120px;
+    }
+
+    #reviews-title {
+        font-size: 34px;
+    }
+
+    #order-border {
+        width: 380px;
+    }
+
+    #order-border-kids-img img {
+        width: 320px;
+    }
+
+    #order-border-kids-img {
+        top: -345px;
+    }
+
+    #first-order-title {
+        font-size: 26px;
+        max-width: 315px;
+    }
+
+    #first-order-text {
+        font-size: 18px;
+        max-width: 345px;
+    }
+
+    #first-order-img {
+        margin-top: 287px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #reviews-container {
+        max-width: 295px;
+        padding-top: 80px;
+    }
+
+    #reviews {
+        height: 656px; /*656*/
+        background: url("../images/reviews-bg-small.png");
+        background-position: center;
+        background-size: cover;
+    }
+
+    #reviews-title {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+
+    #list-reviews .slick-slide {
+        width: 295px!important;
+        height: 298px!important;
+        flex-direction: column;
+    }
+
+    #list-reviews .slick-list {
+        height: 298px;
+    }
+
+    .review-img {
+        margin: 0 auto;
+    }
+
+    .review-img img {
+        width: 140px;
+        margin-top: 0;
+    }
+
+    .review-text {
+        text-align: center;
+        margin-top: 37px;
+        margin-left: 0;
+    }
+
+    .review-title {
+        margin-bottom: 15px;
+    }
+
+    #list-reviews .slick-next {
+        top: 240px;
+    }
+
+    #list-reviews .slick-prev {
+        top: 240px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .review-word {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    #main {
+        height: 885px;
+    }
+
+    #main-boy-img {
+        top: calc(50% - 920px);
+    }
+
+    #main-boy-img img {
+         width: 274px;
+    }
+
+    #main-small-order-img {
+        top: calc(50% - 962px);
+        margin-top: 25px;
+        margin-left: 45px;
+    }
+
+    #main-small-order-img img {
+        width: 130px;
+    }
+
+    #main-small-order-img {
+        top: calc(50% - 986px);
+    }
+
+    #main-info-text-2 {
+        padding-top: 320px;
+    }
+
+    #advantages {
+        height: 1060px;
+    }
+
+    #advantages-container {
+        padding-top: 60px;
+    }
+
+    #advantages-title {
+        font-size: 27px;
+    }
+
+    #advantage-img img {
+        width: 280px;
+    }
+
+    #advantages-block {
+        padding-top: 40px;
+    }
+
+    #advantage-img {
+        height: 200px;
+    }
+
+    .advantage-title {
+        font-size: 17px;
+    }
+
+    .advantage-number {
+        font-size: 60px;
+    }
+
+    .advantage-text {
+        font-size: 14px;
+        max-width: 222px;
+    }
+
+    .advantage:nth-child(2) {
+        margin-top: 0;
+    }
+
+    .advantage:nth-child(3) {
+        margin-top: 10px;
+    }
+
+    .advantage:nth-child(4) {
+        margin-top: 10px;
+    }
+
+    .advantage:nth-child(5) {
+        margin-top: 10px;
+        width: 277px;
+    }
+
+    .advantage-title-text:nth-child(1) {
+        margin-left: 25px;
+    }
+
+    .advantage-title-text:nth-child(2) {
+        margin-left: 18px;
+    }
+
+    #use-programming {
+        height: 910px;
+    }
+
+    #use-programming-title {
+        font-size: 25px;
+    }
+
+    .use-programming-kids-img {
+        text-align: center;
+        width: 290px;
+        top: -606px;
+    }
+
+    .use-programming-kids-img img {
+        width: 290px;
+    }
+
+    #use-programming-pluses-1 {
+        padding-top: 294px;
+        width: 230px;
+        margin: 0 auto;
+    }
+
+    #use-programming-pluses-2 {
+        width: 230px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+
+    #use-programming-pluses-3 {
+        width: 230px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+
+    #learn-title {
+        font-size: 25px;
+    }
+
+    .learn-title {
+        margin-left: 15px;
+        font-size: 15px;
+    }
+
+    .learn-img img {
+        width: 52px;
+    }
+
+    .learn {
+        padding-left: 0;
+    }
+
+    .learn-3 .learn-title {
+        max-width: 221px;
+    }
+
+    .learn-6 .learn-title {
+        max-width: 201px;
+    }
+
+    #learn-text {
+        font-size: 15px;
+        padding-top: 22px;
+        max-width: 300px;
+    }
+
+    #our-programs {
+        height: 922px;
+    }
+
+    #programs-container {
+        padding-top: 125px;
+    }
+
+    .product-img img {
+        width: 200px;
+    }
+
+    #programs-text {
+        padding-top: 40px;
+        font-size: 15px;
+        max-width: 280px;
+    }
+
+    #going-title {
+        font-size: 25px;
+        margin-bottom: 40px;
+    }
+
+    #going-container {
+        padding: 70px 0 60px 0;
+    }
+
+    #going-border {
+        width: 275px;
+        height: 557px;
+    }
+
+    .going-text {
+        font-size: 16px;
+    }
+
+    .going {
+        width: 247px;
+    }
+
+    #going-1 .going:nth-child(1) {
+        padding-top: 25px;
+    }
+
+    .going {
+        padding: 10px 0;
+    }
+
+    #reviews-title {
+        font-size: 25px;
+    }
+
+    #order-block {
+        height: 897px;
+    }
+
+    #order-container {
+        padding: 80px 0 84px 0;
+    }
+
+    #order-border {
+        width: 290px;
+        height: 736px;
+    }
+
+    #first-order-block {
+        padding-top: 30px;
+        margin: 0 auto;
+    }
+
+    #first-order-title {
+        font-size: 22px;
+    }
+
+    #first-order-text {
+        font-size: 16px;
+        padding-top: 20px;
+        max-width: 274px;
+    }
+
+    #first-order-img {
+        margin-top: 290px;
+    }
+
+    #first-order-img img {
+        width: 129px;
+        top: -112px;
+        position: relative;
+    }
+
+    #order-border-kids-img img {
+        width: 232px;
+    }
+
+    #second-order-form {
+        margin: -320px auto;
+        height: 312px;
+    }
+
+    #second-order-title {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .order-form-input input {
+        width: 260px;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    #products-container .slick-next:before {
+        content: url(../images/products-arrow-right-small.png);
+    }
+
+    #products-container .slick-prev:before {
+        content: url(../images/products-arrow-left-small.png);
+    }
+
+    #products-container .slick-next {
+        right: calc(50% - 170px);
+    }
+
+    #products-container .slick-prev {
+        left: calc(50% - 170px);
+    }
+
+    #list-reviews .slick-next {
+        right: -20px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -20px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .review-word {
+        font-size: 14px;
+        max-width: 214px;
+        margin: 0 auto;
+    }
+
+    #list-reviews .slick-prev:before {
+        content: url(../images/review-arrow-left-small.png);
+    }
+
+    #list-reviews .slick-next:before {
+        content: url(../images/review-arrow-right-small.png);
+    }
+}
+
+@media screen and (max-width: 350px) {
+    #programs-container .slick-slide {
+        width: 250px!important;
+    }
+
+    #products-container .slick-next {
+        right: calc(50% - 155px);
+    }
+
+    #products-container .slick-prev {
+        left: calc(50% - 155px);
+    }
+}
+
+@media screen and (max-width: 340px) {
+    #list-reviews .slick-next {
+        right: -5px;
+    }
+
+    #list-reviews .slick-prev {
+        left: -5px;
+    }
+}
